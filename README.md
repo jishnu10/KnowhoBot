@@ -21,11 +21,11 @@ Mozilla Public License for more details.
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/agentnova/KnowhoBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jishnu10/KnowhoBot)
 
 #### Watch video
 
-<a href="https://youtu.be/n3OAebcVgR4"><img src="https://github.com/agentnova/KnowhoBot/blob/master/images%20(1)%7E2.jpg" width="150px"/></a>
+<a href="https://youtu.be/n3OAebcVgR4"><img src="https://github.com/jishnu10/KnowhoBot/blob/master/images%20(1)%7E2.jpg" width="150px"/></a>
 
 
 
